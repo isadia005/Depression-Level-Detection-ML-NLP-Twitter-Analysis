@@ -8,16 +8,18 @@ This Project focuses on gathering a random dataset containing depressive as well
 ## System Workflow
 ![systemworkflow](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/5fa95358-b4ed-4cce-9aa6-91eb045c93c4)
 ## System Workflow Step 1
-
+![1](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/0b926eb8-364f-458a-a7c6-3928e8211244)
 ## System Workflow Step 2
-
+![2](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/da658da9-7c83-47f0-8577-c3193d6bcac8)
 ## System Workflow Step 3
-
+![3](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/72766d23-b954-41f9-bae8-0556e8d5f04a)
 ## System Workflow Step 4
-
+![4](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/e8563459-1381-437e-bc4a-ce8557e47eea)
 ## System Workflow Step 5
-
+![5](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/c1cdb7c2-98ee-4ce6-b42b-686ed36ebf53)
 ## Tools and Technologies
+![6](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/a6178c68-c13a-4c12-8150-ae482c89c5a8)
+
 
 
 
