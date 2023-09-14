@@ -7,4 +7,17 @@ This Project focuses on gathering a random dataset containing depressive as well
 - To investigate the potential for identifying trends and signs of sadness in social media posts using machine learning and NLP techniques.
 ## System Workflow
 ![systemworkflow](https://github.com/isadia005/Depression-Level-Detection-ML-NLP-Twitter-Analysis/assets/71076874/5fa95358-b4ed-4cce-9aa6-91eb045c93c4)
+## System Workflow Step 1
+
+## System Workflow Step 2
+
+## System Workflow Step 3
+
+## System Workflow Step 4
+
+## System Workflow Step 5
+
+## Tools and Technologies
+
+
 
